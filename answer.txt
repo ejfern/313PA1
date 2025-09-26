@@ -1,0 +1,3 @@
+When transferring a large file, like a 10 MB file for example, it takes a lot longer. In this 10 MB example, it took
+about 18.5 seconds. I think the bottleneck in this situation is just going to be the bandwidth and how much data can
+be transferred at once.
